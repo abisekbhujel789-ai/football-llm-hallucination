@@ -1,0 +1,15 @@
+# virtual environments
+venv/
+.venv/
+
+# generated data (recreated by the scripts)
+data/
+
+# secrets
+.env
+*.key
+
+# Python / editor clutter
+__pycache__/
+*.pyc
+.vscode/
